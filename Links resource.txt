@@ -1,8 +1,8 @@
-Link tổng hợp cả 2 resource (github):   
+Link tổng hợp cả 2 resource (github):   https://github.com/tuan-loc/BC37-bai-tap-capstone-api
 Link resource shopping cart (github):   https://github.com/tuan-loc/BC37-bai-tap-capstone-api-shopping-cart
 Link resource admin (github):           https://github.com/tuan-loc/BC37-bai-tap-capstone-api-admin
 
 Link deploy shopping cart (vercel):     https://bc-37-bai-tap-capstone-api-shopping-cart.vercel.app/
 Link deploy admin (vercel):             https://bc-37-bai-tap-capstone-api-admin.vercel.app/
 
-Link youtube:
+Link youtube:                           https://www.youtube.com/watch?v=MOFQfwO0kZo
